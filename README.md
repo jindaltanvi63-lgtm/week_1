@@ -1,15 +1,2 @@
-Problem 2.A- 
-     1.No equilibrium when  > k people contribute
-             whoever is contrbuting will prefer to deviate as they will get goods without contributing after deviating.
-     2.any case when exactly k people contribute is equibrium
-             as the people who are contributing won't deviate as after deviation they will not get good without contribution which has less preference that goods with contribution.
-             and the people who are not contributing will definately as they are already at highest score that is getting goods without contributing.
-     3.No equilibrium when  < k people contribute
-             as people who are contributing will want to deviate as they are not getting goods in any case except when its only 1 less than k. and in that case the people who are 
-             contributing will want to change.
-Problem 2.B-
-     a. 2 nash equilibriums- all hunt hare or all hunt stag
-     b. when all hunt hare or when exactly k hunters chose stag.
-Problem 3. -
-     
+
      
